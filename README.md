@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
 <h3 align="center">I am Full Stack Web developer</h3>
 
-<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Coding-dp" with="10px" align="right">
+<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="Coding-dp" width="400px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh0097&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh0097" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
